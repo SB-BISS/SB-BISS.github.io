@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/myBlockInfo/static/js/main.b94892fd.chunk.js",
+    "main.js.map": "/myBlockInfo/static/js/main.b94892fd.chunk.js.map",
+    "runtime-main.js": "/myBlockInfo/static/js/runtime-main.2daeb7dd.js",
+    "runtime-main.js.map": "/myBlockInfo/static/js/runtime-main.2daeb7dd.js.map",
+    "static/css/2.3fdc8e27.chunk.css": "/myBlockInfo/static/css/2.3fdc8e27.chunk.css",
+    "static/js/2.8ec59a7c.chunk.js": "/myBlockInfo/static/js/2.8ec59a7c.chunk.js",
+    "static/js/2.8ec59a7c.chunk.js.map": "/myBlockInfo/static/js/2.8ec59a7c.chunk.js.map",
+    "index.html": "/myBlockInfo/index.html",
+    "precache-manifest.4c283ae452887e1a111369397d2ef875.js": "/myBlockInfo/precache-manifest.4c283ae452887e1a111369397d2ef875.js",
+    "service-worker.js": "/myBlockInfo/service-worker.js",
+    "static/css/2.3fdc8e27.chunk.css.map": "/myBlockInfo/static/css/2.3fdc8e27.chunk.css.map",
+    "static/js/2.8ec59a7c.chunk.js.LICENSE.txt": "/myBlockInfo/static/js/2.8ec59a7c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/myBlockInfo/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2daeb7dd.js",
+    "static/css/2.3fdc8e27.chunk.css",
+    "static/js/2.8ec59a7c.chunk.js",
+    "static/js/main.b94892fd.chunk.js"
+  ]
+}
